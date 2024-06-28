@@ -1,12 +1,12 @@
-![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009//leaf.svg)
+<!-- _coverpage.md -->
 
-# Spring Album <small>0.0.1</small>
+# Docsify使用指南 
 
-> 试下写个Spring相关的专栏，这是原始版本，暂定包括下面的栏目：
+> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
 
-- `SpringBoot2.x`入门系列 
-- `SpringBoot2.x`进阶和实战
-- `SpringBoot`源码系列
+ 简单、轻便 (压缩后 ~21kB)
+- 无需生成 html 文件
+- 众多主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+
+[开始使用 Let Go](/README.md)
